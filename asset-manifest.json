@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Poke/static/css/main.4dc82407.chunk.css",
+    "main.js": "/React-Poke/static/js/main.468690ad.chunk.js",
+    "main.js.map": "/React-Poke/static/js/main.468690ad.chunk.js.map",
+    "runtime-main.js": "/React-Poke/static/js/runtime-main.976949ab.js",
+    "runtime-main.js.map": "/React-Poke/static/js/runtime-main.976949ab.js.map",
+    "static/js/2.5aaf6d11.chunk.js": "/React-Poke/static/js/2.5aaf6d11.chunk.js",
+    "static/js/2.5aaf6d11.chunk.js.map": "/React-Poke/static/js/2.5aaf6d11.chunk.js.map",
+    "static/js/3.c91c93de.chunk.js": "/React-Poke/static/js/3.c91c93de.chunk.js",
+    "static/js/3.c91c93de.chunk.js.map": "/React-Poke/static/js/3.c91c93de.chunk.js.map",
+    "index.html": "/React-Poke/index.html",
+    "static/css/main.4dc82407.chunk.css.map": "/React-Poke/static/css/main.4dc82407.chunk.css.map",
+    "static/js/2.5aaf6d11.chunk.js.LICENSE.txt": "/React-Poke/static/js/2.5aaf6d11.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-Poke/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.976949ab.js",
+    "static/js/2.5aaf6d11.chunk.js",
+    "static/css/main.4dc82407.chunk.css",
+    "static/js/main.468690ad.chunk.js"
+  ]
+}
