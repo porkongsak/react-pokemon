@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pokemon-finder-app/static/css/main.4dc82407.chunk.css",
-    "main.js": "/pokemon-finder-app/static/js/main.468690ad.chunk.js",
-    "main.js.map": "/pokemon-finder-app/static/js/main.468690ad.chunk.js.map",
-    "runtime-main.js": "/pokemon-finder-app/static/js/runtime-main.11a80cb0.js",
-    "runtime-main.js.map": "/pokemon-finder-app/static/js/runtime-main.11a80cb0.js.map",
-    "static/js/2.5aaf6d11.chunk.js": "/pokemon-finder-app/static/js/2.5aaf6d11.chunk.js",
-    "static/js/2.5aaf6d11.chunk.js.map": "/pokemon-finder-app/static/js/2.5aaf6d11.chunk.js.map",
-    "static/js/3.c91c93de.chunk.js": "/pokemon-finder-app/static/js/3.c91c93de.chunk.js",
-    "static/js/3.c91c93de.chunk.js.map": "/pokemon-finder-app/static/js/3.c91c93de.chunk.js.map",
-    "index.html": "/pokemon-finder-app/index.html",
-    "static/css/main.4dc82407.chunk.css.map": "/pokemon-finder-app/static/css/main.4dc82407.chunk.css.map",
-    "static/js/2.5aaf6d11.chunk.js.LICENSE.txt": "/pokemon-finder-app/static/js/2.5aaf6d11.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/pokemon-finder-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/pokemon-finder/static/css/main.3d400362.chunk.css",
+    "main.js": "/pokemon-finder/static/js/main.f487dcf0.chunk.js",
+    "main.js.map": "/pokemon-finder/static/js/main.f487dcf0.chunk.js.map",
+    "runtime-main.js": "/pokemon-finder/static/js/runtime-main.e5fed784.js",
+    "runtime-main.js.map": "/pokemon-finder/static/js/runtime-main.e5fed784.js.map",
+    "static/js/2.df19caaf.chunk.js": "/pokemon-finder/static/js/2.df19caaf.chunk.js",
+    "static/js/2.df19caaf.chunk.js.map": "/pokemon-finder/static/js/2.df19caaf.chunk.js.map",
+    "static/js/3.54e3beb3.chunk.js": "/pokemon-finder/static/js/3.54e3beb3.chunk.js",
+    "static/js/3.54e3beb3.chunk.js.map": "/pokemon-finder/static/js/3.54e3beb3.chunk.js.map",
+    "index.html": "/pokemon-finder/index.html",
+    "static/css/main.3d400362.chunk.css.map": "/pokemon-finder/static/css/main.3d400362.chunk.css.map",
+    "static/js/2.df19caaf.chunk.js.LICENSE.txt": "/pokemon-finder/static/js/2.df19caaf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pokemon-finder/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.11a80cb0.js",
-    "static/js/2.5aaf6d11.chunk.js",
-    "static/css/main.4dc82407.chunk.css",
-    "static/js/main.468690ad.chunk.js"
+    "static/js/runtime-main.e5fed784.js",
+    "static/js/2.df19caaf.chunk.js",
+    "static/css/main.3d400362.chunk.css",
+    "static/js/main.f487dcf0.chunk.js"
   ]
 }
